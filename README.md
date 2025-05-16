@@ -9,7 +9,7 @@ https://dd2030.slack.com/archives/C08LJ9T5MLY/p1747282744469529
 - とりあえず公聴AIといどばたを対象に考える
 - まずは思いついたことを箇条書き
 - その後ChatGPTでブラッシュアップ
-- 良さそうな感じになったらついでに一発DeepResearch → 結果はこちら　https://chatgpt.com/share/68276827-4b40-8002-a590-cef27b841aa7
+- 良さそうな感じになったらついでに一発DeepResearch → 結果はこちら　https://chatgpt.com/share/68276e28-dba4-8002-80c4-1545e4315ba4
 - 30分間の間で繰り返す →　1周したら終わった
 
 以下、ブラッシュアップ ver.
